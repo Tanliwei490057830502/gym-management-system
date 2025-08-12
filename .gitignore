@@ -1,0 +1,19 @@
+# Flutter/Dart/Pub related 
+.dart_tool/ 
+.flutter-plugins 
+.flutter-plugins-dependencies 
+.packages 
+.pub-cache/ 
+.pub/ 
+build/ 
+**/android/.gradle 
+**/android/local.properties 
+**/ios/Pods/ 
+.idea/ 
+*.iml 
+windows/flutter/ephemeral/ 
+# Sensitive files 
+**/serviceAccountKey.json 
+**/*serviceAccountKey*.json 
+admin_web/functions/serviceAccountKey.json 
+mobile_app/gym_admin_backend/serviceAccountKey.json 

@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "gym-app-firebase-79daf",
+          "appId": "1:780860598498:android:10a7e6a1a1b9262dd416bb",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "gym-app-firebase-79daf",
+          "configurations": {
+            "android": "1:780860598498:android:10a7e6a1a1b9262dd416bb",
+            "web": "1:780860598498:web:68e48d36d691e647d416bb",
+            "windows": "1:780860598498:web:e547e5e7354b2b48d416bb"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}

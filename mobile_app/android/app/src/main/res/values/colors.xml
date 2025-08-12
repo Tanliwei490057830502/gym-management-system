@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <!-- FCM 通知颜色 -->
+        <!-- FCM 通知颜色 -->
+        <color name="notification_color">#673AB7</color>
+        <!-- 匹配你的应用主题色 -->
+        <color name="primary_color">#673AB7</color>
+        <color name="primary_dark">#512DA8</color>
+        <color name="accent_color">#FF4081</color>
+</resources>
